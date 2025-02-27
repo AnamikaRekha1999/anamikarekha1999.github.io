@@ -195,6 +195,26 @@ window.data = {
   work: [
     {
       summary:
+        "Manages Windows Server environments like Active Directory and Exchange, automating repetitive tasks using PowerShell to improve efficiency",
+      name: "Zensar Technologies",
+      location: "City of San Diego, Contract, Dallas, TX",
+      position: "Windows Engineer",
+      startDate: "Oct 2024",
+      endDate: "Prsent",
+      highlights: [
+        "Provided first-line technical support for software, hardware, and system issues, leveraging remote troubleshooting tools",
+        "Monitored system performance using tools like Nexthink, managed user accounts, and assisted with Active Directory audits",
+        "Resolved DNS, TCP/IP, and network issues using tools like traceroute and CURL",
+        "Managed user authentication systems, including Okta, ensuring secure access and streamlined processes Data Analyst Responsibilities (Service Desk)",
+        "Took initiative to design and develop a Service Desk Dashboard using the ServiceNow platform, providing actionable insights into service performance",
+        "Analyzed aging tickets, identified trends causing SLA breaches, and provided actionable recommendations to improve ticket resolution timelines",
+        "Monitored SLA compliance, uncovering root causes for breaches and optimizing workflows to ensure service quality standards were met",
+        "Conducted deep dives into Active Directory troubleshooting issues, identifying peak focus areas and prioritizing support efforts to minimize recurring problems",
+        "Visualized incident trends, ticket backlogs, and team performance to enable data-driven decision-making and improve operational efficiency",
+      ],
+    },
+    {
+      summary:
         "Pinnacle Healthcare Staffing provides specialized services in healthcare staffing and data analysis.",
       name: "Pinnacle Healthcare Staffing",
       location: "Philadelphia, PA",
